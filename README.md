@@ -61,7 +61,7 @@ Phase 5 → Grinding & Mastery       (Bulan 10+)
 
 | # | Topik | Konsep Utama | Status |
 |---|-------|-------------|--------|
-| 1.1 | Big-O Notation | Time & Space Complexity | ⬜ |
+| 1.1 | Big-O Notation | Time & Space Complexity | [X] |
 | 1.2 | Cara Kerja Memory | Stack vs Heap, Reference vs Value | ⬜ |
 | 1.3 | Rekursi | Call stack, base case, recursive case | ⬜ |
 
