@@ -1,7 +1,7 @@
 # 🧠 DSA Learning Journey — Java Edition
 
-> **Misi:** Membangun fondasi Data Structures & Algorithms yang kuat,  
-> bukan sekadar lulus test — tapi benar-benar paham cara berpikir problem solving.
+> **Misi:** Membangun pemahaman Data Structures & Algorithms 
+dan mengembangkan kemampuan problem solving secara sistematis.
 
 ---
 
@@ -217,6 +217,38 @@ Phase 5 - Grinding     : 0 / 90 soal
 - [ ] 🎯 Pass HackerRank company test secara mandiri
 
 ---
+
+## 🏷️ Git Commit Convention
+
+```
+🚀 init      → inisialisasi project / setup awal
+📖 docs      → belajar / catatan konsep
+⚙️  feat      → implementasi kode baru
+🧩 solve     → solve problem LeetCode / HackerRank
+📅 progress  → update progress log
+📋 readme    → update readme / dokumentasi
+🐛 fix       → fix bug / kesalahan logika
+♻️  refactor  → refactor kode tanpa ubah fungsi
+🗑️  remove    → hapus file / folder
+➕ add       → tambah file / dependency baru
+➖ deps      → hapus dependency
+🔧 config    → konfigurasi / setting environment
+🔀 merge     → merge / reorganisasi struktur
+✅ complete  → mark topik sebagai selesai
+🔒 wip       → work in progress, belum selesai
+🙈 ignore    → tambah ke gitignore
+```
+
+**Contoh penggunaan:**
+```bash
+git commit -m "🚀 init: setup project structure"
+git commit -m "📖 phase1/big-o: tambah catatan time complexity"
+git commit -m "⚙️  phase2/linked-list: implementasi singly linked list"
+git commit -m "🧩 phase5/easy: solve Two Sum"
+git commit -m "🐛 phase2/stack: fix edge case empty stack"
+git commit -m "✅ phase1/big-o: mark as completed"
+git commit -m "📅 progress: update week 1 log"
+```
 
 ## 💡 Rules Belajar
 
