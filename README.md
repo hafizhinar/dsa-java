@@ -61,7 +61,7 @@ Phase 5 → Grinding & Mastery       (Bulan 10+)
 
 | # | Topik | Konsep Utama | Status |
 |---|-------|-------------|--------|
-| 1.1 | Big-O Notation | Time & Space Complexity | [X] |
+| 1.1 | Big-O Notation | Time & Space Complexity | ✅ |
 | 1.2 | Cara Kerja Memory | Stack vs Heap, Reference vs Value | ⬜ |
 | 1.3 | Rekursi | Call stack, base case, recursive case | ⬜ |
 
@@ -240,5 +240,7 @@ Phase 5 - Grinding     : 0 / 90 soal
 | [Grind 75](https://www.techinterviewhandbook.org/grind75) | Problem list time-boxed |
 
 ---
+
+**Status:** ✅ Selesai · 🔄 Sedang dikerjakan · ⬜ Belum dimulai
 
 > *"It's not about how fast you go. It's about not stopping."*
