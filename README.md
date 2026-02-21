@@ -11,7 +11,7 @@
 |---|---|
 | **Bahasa Implementasi** | Java |
 | **Target Platform** | LeetCode & HackerRank |
-| **Mulai Tanggal** | _(isi tanggal mulai)_ |
+| **Mulai Tanggal** | _22 Februari 2026_ |
 | **Alokasi Waktu** | ~7 jam/minggu (fleksibel, konsistensi > kecepatan) |
 | **Background** | Backend Engineer — Go, Payment Systems |
 
